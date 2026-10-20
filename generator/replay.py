@@ -66,10 +66,13 @@ def main():
     parser.add_argument("--key-only", action="store_true", help="only print key moments, goals and cards")
     args = parser.parse_args()
 
-    for event in replay(args.match, args.speed):
-        if args.key_only and not (event.get("key_moment") or event["type"] in ("card", "kick_off")):
-            continue
-        print(describe(event), flush=True)
+    try:
+        for event in replay(args.match, args.speed):
+            if args.key_only and not (event.get("key_moment") or event["type"] in ("card", "kick_off")):
+                continue
+            print(describe(event), flush=True)
+    except KeyboardInterrupt:
+        print("\nReplay stopped.")
 
 
 if __name__ == "__main__":

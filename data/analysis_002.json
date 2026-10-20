@@ -1,0 +1,142 @@
+{
+  "headline": "Aurora United dominated the ball and chances, but Saltmarsh Rovers twice clawed back before an own goal settled a marathon extra-time win.",
+  "insights": [
+    {
+      "title": "Aurora United burst out with control and chances",
+      "type": "control",
+      "minute": 11,
+      "team": "Aurora United",
+      "explanation": "Aurora United owned the opening phase, with dominant momentum across the first 20 minutes and a clear passing edge. The sequence ending in L. Sarrano's saved shot showed sustained pressure rather than a single breakaway, and it set the tone for their early control.",
+      "evidence_ids": [
+        50,
+        63,
+        65,
+        75,
+        78,
+        84,
+        92,
+        119,
+        130,
+        137,
+        142,
+        160,
+        212,
+        234,
+        240
+      ]
+    },
+    {
+      "title": "Sarrano finally turned the pressure into a lead",
+      "type": "key_moment",
+      "minute": 27,
+      "team": "Aurora United",
+      "explanation": "L. Sarrano converted Aurora United's territorial advantage into the opening goal after a short build-up and an assist from E. Montiel. It was a deserved reward for the home side's first-half superiority, but not enough to put the match to bed.",
+      "evidence_ids": [
+        349,
+        350,
+        351,
+        352
+      ]
+    },
+    {
+      "title": "V. Amado helped Saltmarsh Rovers survive the first half",
+      "type": "goalkeeping",
+      "minute": 38,
+      "team": "Saltmarsh Rovers",
+      "explanation": "V. Amado repeatedly denied Aurora United, including the earlier big chance from L. Sarrano and the later free-kick effort. Those saves mattered because Aurora United were still on top and could easily have built a larger lead before the break.",
+      "evidence_ids": [
+        93,
+        138,
+        235,
+        374,
+        479,
+        137,
+        478
+      ]
+    },
+    {
+      "title": "Saltmarsh Rovers came out stronger after the restart",
+      "type": "momentum",
+      "minute": 53,
+      "team": "Saltmarsh Rovers",
+      "explanation": "The game shifted after halftime, with Saltmarsh Rovers producing their best spell so far and forcing D. Ferrante into a save from R. Varela. That pressure foreshadowed the equaliser and showed Aurora United were no longer cruising.",
+      "evidence_ids": [
+        706,
+        707,
+        676,
+        678,
+        728
+      ]
+    },
+    {
+      "title": "R. Varela and D. Rocha levelled the match with a clean move",
+      "type": "build_up",
+      "minute": 61,
+      "team": "Saltmarsh Rovers",
+      "explanation": "Saltmarsh Rovers' equaliser was built through a four-pass move finished by D. Rocha and assisted by R. Varela. It was more than a scrappy reply: the goal came during a strong momentum swing that flipped control away from Aurora United.",
+      "evidence_ids": [
+        805,
+        806,
+        807,
+        808,
+        809,
+        813,
+        816,
+        843
+      ]
+    },
+    {
+      "title": "Aurora United answered in extra-time with a set-piece header",
+      "type": "key_moment",
+      "minute": 94,
+      "team": "Aurora United",
+      "explanation": "After weathering the equaliser and a chaotic spell, Aurora United reclaimed the lead from a corner, with P. Escobedo providing the assist and R. Belmonte heading home. The goal mattered because it restored Aurora United's momentum after Saltmarsh Rovers had briefly taken control.",
+      "evidence_ids": [
+        1263,
+        1264,
+        1265,
+        1266,
+        1267,
+        1268
+      ]
+    },
+    {
+      "title": "Saltmarsh Rovers nearly forced it again, but Ferrante stood firm",
+      "type": "goalkeeping",
+      "minute": 99,
+      "team": "Aurora United",
+      "explanation": "Saltmarsh Rovers kept pushing in extra-time and generated another saved shot from G. Monteiro, but D. Ferrante's stop prevented an immediate response. Aurora United were under real pressure here, and the save preserved the narrow lead before the late twist.",
+      "evidence_ids": [
+        1320,
+        1321,
+        1335
+      ]
+    },
+    {
+      "title": "Aurora United survived, then won it through an own goal",
+      "type": "key_moment",
+      "minute": 112,
+      "team": "Aurora United",
+      "explanation": "The match was ultimately settled when H. Lobato scored an own goal after a long Aurora United build-up. After repeated momentum swings and two Saltmarsh Rovers equalisers, this was the decisive moment that made the scoreline 3-2.",
+      "evidence_ids": [
+        1492,
+        1493,
+        1494,
+        1495,
+        1496,
+        1497,
+        1498,
+        1499,
+        1500,
+        1501,
+        1502,
+        1503,
+        1504
+      ]
+    }
+  ],
+  "verification": {
+    "insights_kept": 8,
+    "invalid_ids_removed": 1
+  }
+}
