@@ -1,0 +1,345 @@
+{
+  "_comment": "Story: reigning champions vs a debutant underdog. The underdogs twice come from behind, their veteran goalkeeper makes a string of saves, and the favourites only win via an own goal in extra time. All teams and players are fictional.",
+  "seed": 7,
+  "match_id": "match_002",
+  "home": {
+    "name": "Aurora United",
+    "short": "AUR",
+    "players": [
+      {
+        "name": "D. Ferrante",
+        "position": "GK"
+      },
+      {
+        "name": "M. Quiroga",
+        "position": "RB"
+      },
+      {
+        "name": "T. Halvorsen",
+        "position": "CB"
+      },
+      {
+        "name": "R. Belmonte",
+        "position": "CB"
+      },
+      {
+        "name": "S. Aldana",
+        "position": "LB"
+      },
+      {
+        "name": "J. Corvalan",
+        "position": "DM"
+      },
+      {
+        "name": "E. Montiel",
+        "position": "CM"
+      },
+      {
+        "name": "L. Sarrano",
+        "position": "AM",
+        "note": "captain"
+      },
+      {
+        "name": "N. Ibarra",
+        "position": "RW"
+      },
+      {
+        "name": "P. Escobedo",
+        "position": "LW"
+      },
+      {
+        "name": "A. Velasquez",
+        "position": "ST"
+      }
+    ]
+  },
+  "away": {
+    "name": "Saltmarsh Rovers",
+    "short": "SAL",
+    "players": [
+      {
+        "name": "V. Amado",
+        "position": "GK",
+        "age": 40
+      },
+      {
+        "name": "K. Tavares",
+        "position": "RB"
+      },
+      {
+        "name": "B. Fontes",
+        "position": "CB"
+      },
+      {
+        "name": "H. Lobato",
+        "position": "CB"
+      },
+      {
+        "name": "I. Semedo",
+        "position": "LB"
+      },
+      {
+        "name": "C. Mendes",
+        "position": "DM"
+      },
+      {
+        "name": "D. Rocha",
+        "position": "CM"
+      },
+      {
+        "name": "J. Pires",
+        "position": "CM"
+      },
+      {
+        "name": "S. Cabral",
+        "position": "RW"
+      },
+      {
+        "name": "G. Monteiro",
+        "position": "LW"
+      },
+      {
+        "name": "R. Varela",
+        "position": "ST"
+      }
+    ]
+  },
+  "phases": [
+    {
+      "label": "Favourites take control",
+      "period": 1,
+      "start": 0,
+      "end": 20,
+      "home_possession": 0.68,
+      "home_territory": 63,
+      "away_territory": 44,
+      "shot_rate": 0.025,
+      "home_shot_rate": 0.025,
+      "away_shot_rate": 0.14,
+      "turnover_rate": 0.1
+    },
+    {
+      "label": "Aurora siege, keeper defiant",
+      "period": 1,
+      "start": 20,
+      "end": 40,
+      "home_possession": 0.7,
+      "home_territory": 67,
+      "away_territory": 42,
+      "shot_rate": 0.03,
+      "home_shot_rate": 0.03,
+      "away_shot_rate": 0.14,
+      "turnover_rate": 0.1
+    },
+    {
+      "label": "Underdogs settle",
+      "period": 1,
+      "start": 40,
+      "end": 47,
+      "home_possession": 0.58,
+      "home_territory": 56,
+      "away_territory": 55,
+      "shot_rate": 0.025,
+      "home_shot_rate": 0.025,
+      "away_shot_rate": 0.168,
+      "turnover_rate": 0.14
+    },
+    {
+      "label": "Rovers refuse to sit back",
+      "period": 2,
+      "start": 45,
+      "end": 66,
+      "home_possession": 0.55,
+      "home_territory": 55,
+      "away_territory": 62,
+      "shot_rate": 0.025,
+      "home_shot_rate": 0.025,
+      "away_shot_rate": 0.196,
+      "turnover_rate": 0.14
+    },
+    {
+      "label": "Aurora pile on pressure",
+      "period": 2,
+      "start": 66,
+      "end": 94,
+      "home_possession": 0.7,
+      "home_territory": 68,
+      "away_territory": 46,
+      "shot_rate": 0.03,
+      "home_shot_rate": 0.03,
+      "away_shot_rate": 0.14,
+      "turnover_rate": 0.11
+    },
+    {
+      "label": "Extra time: trading blows",
+      "period": 3,
+      "start": 90,
+      "end": 106,
+      "home_possession": 0.6,
+      "home_territory": 60,
+      "away_territory": 60,
+      "shot_rate": 0.03,
+      "home_shot_rate": 0.03,
+      "away_shot_rate": 0.196,
+      "turnover_rate": 0.15
+    },
+    {
+      "label": "Tired legs, late drama",
+      "period": 4,
+      "start": 105,
+      "end": 121,
+      "home_possession": 0.66,
+      "home_territory": 64,
+      "away_territory": 52,
+      "shot_rate": 0.025,
+      "home_shot_rate": 0.025,
+      "away_shot_rate": 0.14,
+      "turnover_rate": 0.16
+    }
+  ],
+  "key_events": [
+    {
+      "period": 1,
+      "minute": 11,
+      "second": 20,
+      "team": "home",
+      "player": "L. Sarrano",
+      "type": "shot",
+      "outcome": "saved",
+      "x": 90,
+      "y": 46,
+      "description": "Point-blank stop by veteran keeper Amado"
+    },
+    {
+      "period": 1,
+      "minute": 27,
+      "second": 40,
+      "team": "home",
+      "player": "L. Sarrano",
+      "type": "shot",
+      "outcome": "goal",
+      "x": 82,
+      "y": 45,
+      "assist": "E. Montiel",
+      "description": "Captain Sarrano curls in from the edge of the box"
+    },
+    {
+      "period": 1,
+      "minute": 38,
+      "second": 5,
+      "team": "home",
+      "player": "L. Sarrano",
+      "type": "shot",
+      "outcome": "saved",
+      "x": 76,
+      "y": 40,
+      "set_piece": "free_kick",
+      "description": "Amado tips a Sarrano free kick over"
+    },
+    {
+      "period": 2,
+      "minute": 53,
+      "second": 40,
+      "team": "away",
+      "player": "R. Varela",
+      "type": "shot",
+      "outcome": "saved",
+      "x": 86,
+      "y": 40,
+      "description": "Ferrante saves from Varela as Rovers threaten"
+    },
+    {
+      "period": 2,
+      "minute": 61,
+      "second": 15,
+      "team": "away",
+      "player": "D. Rocha",
+      "type": "shot",
+      "outcome": "goal",
+      "x": 88,
+      "y": 54,
+      "assist": "R. Varela",
+      "build_up": 4,
+      "description": "Rocha slides it through the defence to stun the champions"
+    },
+    {
+      "period": 2,
+      "minute": 78,
+      "second": 50,
+      "team": "home",
+      "player": "A. Velasquez",
+      "type": "shot",
+      "outcome": "saved",
+      "x": 93,
+      "y": 52,
+      "description": "Another reflex save from Amado"
+    },
+    {
+      "period": 2,
+      "minute": 86,
+      "second": 30,
+      "team": "home",
+      "player": "L. Sarrano",
+      "type": "shot",
+      "outcome": "saved",
+      "x": 75,
+      "y": 58,
+      "set_piece": "free_kick",
+      "description": "Amado denies Sarrano's free kick again"
+    },
+    {
+      "period": 3,
+      "minute": 94,
+      "second": 10,
+      "team": "home",
+      "player": "R. Belmonte",
+      "type": "shot",
+      "outcome": "goal",
+      "x": 94,
+      "y": 48,
+      "assist": "P. Escobedo",
+      "set_piece": "corner",
+      "body_part": "head",
+      "description": "Centre-back Belmonte rises highest at a corner"
+    },
+    {
+      "period": 3,
+      "minute": 99,
+      "second": 30,
+      "team": "away",
+      "player": "G. Monteiro",
+      "type": "shot",
+      "outcome": "saved",
+      "x": 84,
+      "y": 60,
+      "description": "Ferrante keeps Aurora ahead in extra time"
+    },
+    {
+      "period": 3,
+      "minute": 104,
+      "second": 5,
+      "team": "away",
+      "player": "S. Cabral",
+      "type": "shot",
+      "outcome": "goal",
+      "x": 89,
+      "y": 44,
+      "assist": "J. Pires",
+      "build_up": 11,
+      "description": "Cabral finishes an 11-pass team move to level again"
+    },
+    {
+      "period": 4,
+      "minute": 112,
+      "second": 25,
+      "team": "away",
+      "player": "H. Lobato",
+      "type": "own_goal",
+      "outcome": "goal",
+      "x": 6,
+      "y": 50,
+      "assist": "N. Ibarra",
+      "description": "Lobato turns Ibarra's cross into his own net"
+    }
+  ]
+}

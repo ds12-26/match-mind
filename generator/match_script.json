@@ -1,0 +1,56 @@
+{
+  "_comment": "Edit this file to change the match story. The generator fills in every routine event around these phases and key moments. All teams and players are fictional.",
+  "seed": 42,
+  "match_id": "match_001",
+  "home": {
+    "name": "Riverside FC",
+    "short": "RIV",
+    "players": [
+      {"name": "T. Hallam", "position": "GK"},
+      {"name": "J. Mercer", "position": "RB"},
+      {"name": "D. Osei", "position": "CB"},
+      {"name": "L. Brandt", "position": "CB"},
+      {"name": "K. Fennel", "position": "LB"},
+      {"name": "M. Okafor", "position": "CM"},
+      {"name": "R. Castell", "position": "CM"},
+      {"name": "P. Lindqvist", "position": "AM"},
+      {"name": "S. Adeyemi", "position": "RW"},
+      {"name": "N. Varga", "position": "LW"},
+      {"name": "E. Doyle", "position": "ST"}
+    ]
+  },
+  "away": {
+    "name": "Northgate Athletic",
+    "short": "NOR",
+    "players": [
+      {"name": "A. Petrov", "position": "GK"},
+      {"name": "C. Whitlow", "position": "RB"},
+      {"name": "H. Nakamura", "position": "CB"},
+      {"name": "O. Grant", "position": "CB"},
+      {"name": "B. Sorensen", "position": "LB"},
+      {"name": "I. Moreau", "position": "DM"},
+      {"name": "F. Kowalski", "position": "CM"},
+      {"name": "Y. Bello", "position": "CM"},
+      {"name": "G. Ruiz", "position": "RW"},
+      {"name": "V. Tanaka", "position": "LW"},
+      {"name": "Z. Mbeki", "position": "ST"}
+    ]
+  },
+  "phases": [
+    {"label": "Cagey opening",              "period": 1, "start": 0,  "end": 12, "home_possession": 0.52, "home_territory": 50, "away_territory": 48, "shot_rate": 0.04, "turnover_rate": 0.14},
+    {"label": "Riverside dominate",         "period": 1, "start": 12, "end": 32, "home_possession": 0.68, "home_territory": 64, "away_territory": 40, "shot_rate": 0.09, "turnover_rate": 0.11},
+    {"label": "Northgate counter-attack",   "period": 1, "start": 32, "end": 47, "home_possession": 0.55, "home_territory": 55, "away_territory": 58, "shot_rate": 0.07, "turnover_rate": 0.16},
+    {"label": "Riverside respond",          "period": 2, "start": 45, "end": 61, "home_possession": 0.62, "home_territory": 62, "away_territory": 45, "shot_rate": 0.08, "turnover_rate": 0.12},
+    {"label": "Ten men: Northgate take over","period": 2, "start": 61, "end": 80, "home_possession": 0.36, "home_territory": 42, "away_territory": 65, "shot_rate": 0.09, "turnover_rate": 0.13},
+    {"label": "Late Riverside push",        "period": 2, "start": 80, "end": 95, "home_possession": 0.58, "home_territory": 66, "away_territory": 50, "shot_rate": 0.11, "turnover_rate": 0.15}
+  ],
+  "key_events": [
+    {"period": 1, "minute": 18, "second": 40, "team": "home", "player": "E. Doyle",     "type": "shot",  "outcome": "hit_post", "x": 88, "y": 44, "description": "Doyle hits the post after sustained Riverside pressure"},
+    {"period": 1, "minute": 27, "second": 5,  "team": "home", "player": "P. Lindqvist", "type": "shot",  "outcome": "saved",    "x": 84, "y": 52, "description": "Lindqvist forces a big save from Petrov"},
+    {"period": 1, "minute": 34, "second": 12, "team": "away", "player": "Z. Mbeki",     "type": "shot",  "outcome": "goal",     "x": 90, "y": 47, "assist": "G. Ruiz", "description": "Mbeki scores on the counter against the run of play"},
+    {"period": 2, "minute": 52, "second": 30, "team": "home", "player": "S. Adeyemi",   "type": "shot",  "outcome": "goal",     "x": 87, "y": 38, "assist": "M. Okafor", "description": "Adeyemi equalises from Okafor's through ball"},
+    {"period": 2, "minute": 61, "second": 2,  "team": "home", "player": "L. Brandt",    "type": "card",  "outcome": "red",      "x": 30, "y": 55, "description": "Brandt sent off for a last-man foul on Mbeki"},
+    {"period": 2, "minute": 74, "second": 48, "team": "away", "player": "V. Tanaka",    "type": "shot",  "outcome": "goal",     "x": 91, "y": 58, "assist": "F. Kowalski", "description": "Tanaka puts ten-man Riverside behind"},
+    {"period": 2, "minute": 92, "second": 15, "team": "home", "player": "E. Doyle",     "type": "shot",  "outcome": "goal",     "x": 93, "y": 50, "assist": "N. Varga", "description": "Doyle heads a stoppage-time equaliser"}
+  ]
+}
