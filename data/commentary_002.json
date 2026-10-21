@@ -1,0 +1,852 @@
+[
+  {
+    "clock": "0:00",
+    "minute": 0,
+    "period": 1,
+    "kind": "period_start",
+    "event_id": 1,
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "text": "We are underway at the start of the first half as J. Corvalan gets Aurora United going.",
+    "evidence_ids": [
+      1
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "1:18",
+    "minute": 1,
+    "period": 1,
+    "kind": "booking",
+    "event_id": 24,
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "text": "Yellow card for I. Semedo after the foul on T. Halvorsen, and Saltmarsh Rovers are already under a bit of pressure here.",
+    "evidence_ids": [
+      23,
+      24
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "5:19",
+    "minute": 5,
+    "period": 1,
+    "kind": "booking",
+    "event_id": 74,
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "text": "Saltmarsh Rovers are penalised again, and B. Fontes goes into the book after the foul on N. Ibarra as Aurora United keep the pressure on.",
+    "evidence_ids": [
+      73,
+      74
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "6:44",
+    "minute": 6,
+    "period": 1,
+    "kind": "save",
+    "event_id": 93,
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "text": "N. Ibarra drives Aurora United\u2019s move to a close with a shot that V. Amado gets behind and keeps out for Saltmarsh Rovers.",
+    "evidence_ids": [
+      92,
+      93
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "11:21",
+    "minute": 11,
+    "period": 1,
+    "kind": "save",
+    "event_id": 138,
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "text": "V. Amado stands tall for Saltmarsh Rovers and keeps out L. Sarrano\u2019s effort, preserving the deadlock after Aurora United\u2019s sustained attack.",
+    "evidence_ids": [
+      137,
+      138
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "17:02",
+    "minute": 17,
+    "period": 1,
+    "kind": "state_of_play",
+    "event_id": 209,
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "text": "Aurora United keep seeing plenty of the ball and probing forward, while Saltmarsh Rovers are mostly being forced to defend and chase in this quiet spell.",
+    "evidence_ids": [
+      186,
+      187,
+      189,
+      193,
+      197,
+      199,
+      200,
+      201
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "18:35",
+    "minute": 18,
+    "period": 1,
+    "kind": "save",
+    "event_id": 235,
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "text": "V. Amado is equal to L. Sarrano\u2019s low effort, getting down smartly to keep Aurora United out again while the pressure stays on Saltmarsh Rovers.",
+    "evidence_ids": [
+      234,
+      235
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "24:04",
+    "minute": 24,
+    "period": 1,
+    "kind": "state_of_play",
+    "event_id": 303,
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "text": "A quiet spell settles over the first half as Aurora United still see more of the ball and Saltmarsh Rovers work hard without much reward, with the visitors yet to turn their few forward forays into anything decisive.",
+    "evidence_ids": [
+      285,
+      286,
+      292,
+      293,
+      297,
+      298,
+      299,
+      300
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "26:47",
+    "minute": 26,
+    "period": 1,
+    "kind": "chance",
+    "event_id": 347,
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "text": "Aurora United work it neatly through the middle and A. Velasquez lets fly, but the shot drifts off target as the pressure on Saltmarsh Rovers continues.",
+    "evidence_ids": [
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "27:40",
+    "minute": 27,
+    "period": 1,
+    "kind": "goal",
+    "event_id": 352,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "Aurora United strike at last, and it\u2019s L. Sarrano who turns E. Montiel\u2019s assist into the opener to make it 1-0.",
+    "evidence_ids": [
+      352
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "29:55",
+    "minute": 29,
+    "period": 1,
+    "kind": "save",
+    "event_id": 374,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "V. Amado stands firm for Saltmarsh Rovers, getting down to keep out S. Aldana\u2019s effort as Aurora United keep the pressure on at 1-0.",
+    "evidence_ids": [
+      373,
+      374
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "35:03",
+    "minute": 35,
+    "period": 1,
+    "kind": "state_of_play",
+    "event_id": 456,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "Aurora United are still dictating the tempo with Saltmarsh Rovers pinned back and chasing, but after that burst of pressure the game has settled into a quieter rhythm now.",
+    "evidence_ids": [
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "38:06",
+    "minute": 38,
+    "period": 1,
+    "kind": "save",
+    "event_id": 479,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "V. Amado reads it well again, denying L. Sarrano\u2019s free-kick effort as Aurora United stay on the front foot.",
+    "evidence_ids": [
+      478,
+      479
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "44:00",
+    "minute": 44,
+    "period": 1,
+    "kind": "state_of_play",
+    "event_id": 558,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "A quiet spell here, with Aurora United still seeing more of the ball and probing in Saltmarsh Rovers territory while the visitors sit deeper and look to break up play.",
+    "evidence_ids": [
+      540,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547,
+      552
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "45+0:34",
+    "minute": 45,
+    "period": 1,
+    "kind": "save",
+    "event_id": 587,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "D. Ferrante stands firm to keep out G. Monteiro\u2019s effort, and Saltmarsh Rovers are pushing hard in stoppage time as Aurora United hang on to their lead.",
+    "evidence_ids": [
+      586,
+      587
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "45+0:58",
+    "minute": 45,
+    "period": 1,
+    "kind": "save",
+    "event_id": 593,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "D. Ferrante is equal to J. Pires\u2019s effort and holds firm again, with Saltmarsh Rovers pressing in stoppage time as Aurora United cling to their lead.",
+    "evidence_ids": [
+      592,
+      593
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "45:00",
+    "minute": 45,
+    "period": 2,
+    "kind": "period_start",
+    "event_id": 605,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "The second half is underway, and G. Monteiro gets Saltmarsh Rovers moving as they look to build from the restart.",
+    "evidence_ids": [
+      605
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "46:18",
+    "minute": 46,
+    "period": 2,
+    "kind": "booking",
+    "event_id": 626,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "L. Sarrano goes into the book for Aurora United after the foul on C. Mendes, and Saltmarsh Rovers have a chance to settle back on the front foot in the second half.",
+    "evidence_ids": [
+      625,
+      626
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "46:53",
+    "minute": 46,
+    "period": 2,
+    "kind": "booking",
+    "event_id": 631,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "M. Quiroga goes into the book for Aurora United after the foul on R. Varela, and Saltmarsh Rovers keep the pressure on early in the second half.",
+    "evidence_ids": [
+      630,
+      631
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "52:09",
+    "minute": 52,
+    "period": 2,
+    "kind": "state_of_play",
+    "event_id": 694,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "Aurora United are seeing far more of the ball in this quiet spell, working it patiently while Saltmarsh Rovers stay alert and try to nick possession and break their rhythm.",
+    "evidence_ids": [
+      676,
+      678,
+      679,
+      680,
+      685,
+      689,
+      690,
+      691
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "53:41",
+    "minute": 53,
+    "period": 2,
+    "kind": "save",
+    "event_id": 707,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "D. Ferrante stands firm to deny R. Varela, keeping Aurora United in front after Saltmarsh Rovers work the move well and test the goalkeeper. Saltmarsh Rovers are on the attack, but the save shuts the door for now.",
+    "evidence_ids": [
+      706,
+      707
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "59:03",
+    "minute": 59,
+    "period": 2,
+    "kind": "state_of_play",
+    "event_id": 781,
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "text": "A quiet spell settles in at second half, with Aurora United seeing more of the ball and Saltmarsh Rovers trying to press and snap into possession when they can.",
+    "evidence_ids": [
+      771,
+      774,
+      777,
+      780,
+      781
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "61:15",
+    "minute": 61,
+    "period": 2,
+    "kind": "goal",
+    "event_id": 809,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "Saltmarsh Rovers finally make the pressure count as R. Varela tees up D. Rocha, and Rocha finishes to level it at 1-1. Aurora United 1-1 Saltmarsh Rovers now, with Saltmarsh Rovers grabbing the momentum in the second half.",
+    "evidence_ids": [
+      805,
+      806,
+      807,
+      808,
+      809
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "66:07",
+    "minute": 66,
+    "period": 2,
+    "kind": "chance",
+    "event_id": 865,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "Aurora United string a neat move together through Montiel and Sarrano, but N. Ibarra\u2019s effort sails off target and Saltmarsh Rovers survive again.",
+    "evidence_ids": [
+      856,
+      857,
+      858,
+      859,
+      861,
+      862,
+      863,
+      864,
+      865
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "69:09",
+    "minute": 69,
+    "period": 2,
+    "kind": "booking",
+    "event_id": 906,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "C. Mendes goes into the book for Saltmarsh Rovers after that foul on T. Halvorsen, as Aurora United had been moving the ball around and probing in the second half.",
+    "evidence_ids": [
+      905,
+      906
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "71:09",
+    "minute": 71,
+    "period": 2,
+    "kind": "chance",
+    "event_id": 934,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "Saltmarsh Rovers keep the ball moving through the middle and work it to G. Monteiro, but his shot drifts off target.",
+    "evidence_ids": [
+      925,
+      926,
+      927,
+      928,
+      929,
+      930,
+      931,
+      932,
+      933,
+      934
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "77:03",
+    "minute": 77,
+    "period": 2,
+    "kind": "state_of_play",
+    "event_id": 1010,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "Aurora United are doing all the probing and keeping Saltmarsh Rovers penned back, but the visitors are hanging on and trying to break up the rhythm whenever they can.",
+    "evidence_ids": [
+      989,
+      990,
+      993,
+      994,
+      999,
+      1000,
+      1002,
+      1008
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "78:51",
+    "minute": 78,
+    "period": 2,
+    "kind": "save",
+    "event_id": 1030,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "What a stop from V. Amado! A. Velasquez lets fly for Aurora United, but the Saltmarsh Rovers keeper keeps it level with a strong save.",
+    "evidence_ids": [
+      1029,
+      1030
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "84:00",
+    "minute": 84,
+    "period": 2,
+    "kind": "state_of_play",
+    "event_id": 1110,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "A lull in the second half as Aurora United still have most of the ball and keep pushing Saltmarsh Rovers back, while the visitors look to nick it and break away.",
+    "evidence_ids": [
+      1103,
+      1104,
+      1105,
+      1106,
+      1107,
+      1108,
+      1109,
+      1110
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "84:35",
+    "minute": 84,
+    "period": 2,
+    "kind": "chance",
+    "event_id": 1119,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "N. Ibarra lets fly from a promising position for Aurora United, but it sails off target as they keep the pressure on Saltmarsh Rovers.",
+    "evidence_ids": [
+      1114,
+      1115,
+      1118,
+      1119
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "86:31",
+    "minute": 86,
+    "period": 2,
+    "kind": "save",
+    "event_id": 1128,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "V. Amado is equal to it again, getting down to keep out L. Sarrano\u2019s free-kick effort and hold Saltmarsh Rovers level.",
+    "evidence_ids": [
+      1127,
+      1128
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "90+2:01",
+    "minute": 92,
+    "period": 2,
+    "kind": "state_of_play",
+    "event_id": 1198,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "It\u2019s a quiet spell in stoppage time, with Aurora United still working the ball patiently and Saltmarsh Rovers spending most of their time behind it and looking for a rare opening to break.",
+    "evidence_ids": [
+      1187,
+      1188,
+      1191,
+      1192,
+      1194,
+      1196,
+      1197,
+      1198
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "90:00",
+    "minute": 90,
+    "period": 3,
+    "kind": "period_start",
+    "event_id": 1219,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "Start of the first period of extra time, and Aurora United get us going again as M. Quiroga kicks off for them.",
+    "evidence_ids": [
+      1219
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "93:42",
+    "minute": 93,
+    "period": 3,
+    "kind": "chance",
+    "event_id": 1266,
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "text": "Aurora United keep the pressure on in the first period of extra time, but S. Aldana\u2019s effort is blocked after a patient spell around the edge of the Saltmarsh Rovers area.",
+    "evidence_ids": [
+      1263,
+      1264,
+      1265,
+      1266
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "94:10",
+    "minute": 94,
+    "period": 3,
+    "kind": "goal",
+    "event_id": 1268,
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "text": "Aurora United strike from the corner in the first period of extra time, and R. Belmonte powers in a header from P. Escobedo\u2019s delivery to put them 2-1 up against Saltmarsh Rovers!",
+    "evidence_ids": [
+      1267,
+      1268
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "95:35",
+    "minute": 95,
+    "period": 3,
+    "kind": "save",
+    "event_id": 1278,
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "text": "V. Amado is equal to N. Ibarra\u2019s effort, making the stop as Aurora United keep the pressure on in the first period of extra time.",
+    "evidence_ids": [
+      1277,
+      1278
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "99:31",
+    "minute": 99,
+    "period": 3,
+    "kind": "save",
+    "event_id": 1321,
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "text": "D. Ferrante stands tall for Aurora United, turning away G. Monteiro\u2019s 0.29 chance as Saltmarsh Rovers push forward in the first period of extra time.",
+    "evidence_ids": [
+      1320,
+      1321
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "100:22",
+    "minute": 100,
+    "period": 3,
+    "kind": "save",
+    "event_id": 1335,
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "text": "D. Ferrante is there again for Aurora United, dropping to keep out S. Cabral\u2019s shot as Saltmarsh Rovers keep pressing in the first period of extra time.",
+    "evidence_ids": [
+      1334,
+      1335
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "102:11",
+    "minute": 102,
+    "period": 3,
+    "kind": "chance",
+    "event_id": 1363,
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "text": "A. Velasquez lets fly from 0.34, but it sails off target for Aurora United as they keep asking questions in the first period of extra time.",
+    "evidence_ids": [
+      1363
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "104:05",
+    "minute": 104,
+    "period": 3,
+    "kind": "goal",
+    "event_id": 1379,
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "text": "Saltmarsh Rovers have their breakthrough in the first period of extra time, and S. Cabral finishes off J. Pires\u2019 assist to level it at 2-2!",
+    "evidence_ids": [
+      1379
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "105:00",
+    "minute": 105,
+    "period": 4,
+    "kind": "period_start",
+    "event_id": 1397,
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "text": "The second period of extra time is underway as J. Pires gets Saltmarsh Rovers moving again.",
+    "evidence_ids": [
+      1397
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "106:00",
+    "minute": 106,
+    "period": 4,
+    "kind": "save",
+    "event_id": 1414,
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "text": "Aurora United keep the pressure on in this second period of extra time, but V. Amado is equal to A. Velasquez\u2019s effort and holds firm for Saltmarsh Rovers.",
+    "evidence_ids": [
+      1413,
+      1414
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "112:04",
+    "minute": 112,
+    "period": 4,
+    "kind": "state_of_play",
+    "event_id": 1501,
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "text": "Aurora United are seeing plenty of the ball and pushing Saltmarsh Rovers back, while Saltmarsh Rovers are staying compact and looking to slow the pace in this quiet spell.",
+    "evidence_ids": [
+      1494,
+      1495,
+      1496,
+      1497,
+      1498,
+      1499,
+      1500,
+      1501
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "112:25",
+    "minute": 112,
+    "period": 4,
+    "kind": "goal",
+    "event_id": 1504,
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "text": "Aurora United strike again in the second period of extra time, and it comes via an own goal from H. Lobato as Saltmarsh Rovers are punished for the pressure they\u2019ve been under, making it 3-2 to Aurora United.",
+    "evidence_ids": [
+      1504
+    ],
+    "source": "ai"
+  },
+  {
+    "clock": "118:03",
+    "minute": 118,
+    "period": 4,
+    "kind": "state_of_play",
+    "event_id": 1572,
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "text": "It stays cagey in this second period of extra time, with Aurora United enjoying the bulk of the possession and Saltmarsh Rovers digging in to break up play whenever they can.",
+    "evidence_ids": [
+      1552,
+      1554,
+      1558,
+      1563,
+      1565,
+      1567,
+      1571,
+      1572
+    ],
+    "source": "ai"
+  }
+]
